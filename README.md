@@ -1,6 +1,6 @@
 # Calculator
 
-<a href="https://miguelrisquelme.github.io/calculator">Click here to Preview</a>
+<a href="https://miguelrisquelme.github.io/calculator/">Click here to Preview</a>
 
 **Tier:** 1-Beginner
 
