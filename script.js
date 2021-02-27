@@ -8,7 +8,7 @@ function valueEntered(value) {
 
 function resultCalc() {
     let answer = eval(textCalc);
-    content.innerHTML = `<p class="textCalc">${textCalc}</p>`;
+    content.innerHTML = `<p class="textCalc">${answer}</p>`;
 }
 
 function deleteCharacter() {
